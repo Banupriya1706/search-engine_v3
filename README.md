@@ -4,11 +4,11 @@ A Flask web application implementing a Search Engine using Inverted Index + TF-I
 
 ## Features
 
-- 🔍 Search across documents using TF-IDF + Cosine Similarity
-- 📂 Upload your own `.txt` documents
-- 🗑️ Delete uploaded documents
-- 📄 5 default documents included
-- 📊 Shows all calculation tables: Inverted Index, TF, IDF, TF-IDF, Query Vector
+-  Search across documents using TF-IDF + Cosine Similarity
+-  Upload your own `.txt` documents
+-  Delete uploaded documents
+- 5 default documents included
+- Shows all calculation tables: Inverted Index, TF, IDF, TF-IDF, Query Vector
 
 ## Project Structure
 
