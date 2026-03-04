@@ -7,7 +7,15 @@
 ![Railway](https://img.shields.io/badge/Deployed-Railway-purple?logo=railway)
 ![GitHub](https://img.shields.io/badge/Version_Control-GitHub-black?logo=github)
 
+<<<<<<< HEAD
 ---
+=======
+-  Search across documents using TF-IDF + Cosine Similarity
+-  Upload your own `.txt` documents
+-  Delete uploaded documents
+- 5 default documents included
+- Shows all calculation tables: Inverted Index, TF, IDF, TF-IDF, Query Vector
+>>>>>>> 2c216ccd2d7ed8164663601e87dcbae6155b0011
 
 ##  Live Demo
 
@@ -93,10 +101,14 @@ pip install -r requirements.txt
 python app.py
 ```
 
+<<<<<<< HEAD
 **4. Open in browser**
 ```
 http://127.0.0.1:5000
 ```
+=======
+
+>>>>>>> 2c216ccd2d7ed8164663601e87dcbae6155b0011
 
 ---
 
